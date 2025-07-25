@@ -9,7 +9,8 @@ This repository contains a Jupyter notebook that performs SQL queries on the KBO
 - 📓 `KBO_challenge_notebook.ipynb` – Main analysis notebook (SQL + pandas)
 - 📁 `sql_to_csv_files/` – Cleaned datasets used in the project
 - 📊 `Investor_slides_presentation.pdf/` – Slide deck summarizing the key insights
-- 🗃️ `kbo_database.db` – Local SQL database containing raw KBO data
+
+⚠️ **Warning**: This project normally includes large file that couldn't be upload on GitHub. The data came from this public website https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/services-everyone/public-data-available-reuse/cbe-open-data
 
 ---
 
